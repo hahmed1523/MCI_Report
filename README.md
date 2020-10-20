@@ -22,5 +22,3 @@ The MCI Report is run manually on a monthly basis that requires various steps in
 - Create seperate workbooks by Insurance compnany. Each workbook should have an Enter tab and exit tab.
 - Add another tab to the Highmark workbook for all kids.
 - Adjust the columns widths dynamically. 
-
-## Use example folder to test the code.
