@@ -1,9 +1,9 @@
-#Automate MCI Report
+# Automate MCI Report
 
-##Description
+## Description
 The MCI Report is run manually on a monthly basis that requires various steps in excel to manipulate the data to get the required outcome. To automate the process I use the Pandas libary and Openpyxl. 
 
-##Automation Tasks
+## Automation Tasks
 - Ask user for file paths for enter, exit, previous enter, and previous exit.
 - Ask user for date range for current report.
 - Ask user where to save new reports.
@@ -23,4 +23,4 @@ The MCI Report is run manually on a monthly basis that requires various steps in
 - Add another tab to the Highmark workbook for all kids.
 - Adjust the columns widths dynamically. 
 
-##Use example folder to test the code.
+## Use example folder to test the code.
